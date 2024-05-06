@@ -4,7 +4,7 @@
 
 [Install Composer](https://getcomposer.org/) - If you don't already have composer installed on your machine
 
-[Square PHP SDK Guide](https://developer.squareup.com/docs/sdks/php/using-php-sdk)
+[Square PHP SDK Guide](https://developer.squareup.com/docs/sdks/php/using-php-sdk) - Details on how to use / configure the Square client.
 
 [PHP Quickstart Guide](https://developer.squareup.com/docs/sdks/php/quick-start) - The quickstart directory is based off of this document.
 
