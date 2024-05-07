@@ -10,7 +10,7 @@
 
 [Packagist Repository for Square](https://packagist.org/packages/square/square) - Where the package files are hosted
 
-[Dotnet SDK Source Code](https://github.com/square/square-php-sdk) - Github repo with sdk source code
+[PHP SDK Source Code](https://github.com/square/square-php-sdk) - Github repo with sdk source code
 
 
 ## Quickstart Instructions
