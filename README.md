@@ -15,26 +15,24 @@
 
 ## Quickstart Instructions
 
-Change into the `quickstart` directory
+1. Change into the `quickstart` directory
 
-copy `.env.example` to `.env` and replace with your access token
-```
-SQUARE_ACCESS_TOKEN=yourSandboxAccessToken
-```
+1. copy `.env.example` to `.env` and replace with your access token
+    ```
+    SQUARE_ACCESS_TOKEN=yourSandboxAccessToken
+    ```
 
-Install latest version of square dependencies
-```
-$ composer require square/square
-```
+1. Install latest version of square dependencies
+    ```
+    $ composer require square/square
+    ```
 
-Run the code
-```
-$ php -S localhost:8000
-```
+1. Run the code
+    ```
+    $ php -S localhost:8000
+    ```
 
-navigate to `localhost:8000/quickstart.php` and you should see a location displayed
-
-In the browser window you should see output similar to
-```
-LHI1YXJ8YSV5Z: Default Test Account, 1600 Pennsylvania Ave NW, Washington
-```
+1. Navigate to `localhost:8000/quickstart.php` and you should output similar to this: 
+    ```
+    LHI1YXJ8YSV5Z: Default Test Account, 1600 Pennsylvania Ave NW, Washington
+    ```
