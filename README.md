@@ -15,7 +15,7 @@ The sample is based on the [PHP SDK Quickstart guide](https://developer.squareup
 
 1. copy `.env.example` to `.env` and replace with your access token
     ```
-    SQUARE_ACCESS_TOKEN=yourSandboxAccessToken
+    SQUARE_TOKEN=yourSandboxAccessToken
     ```
 
 1. Install latest version of square dependencies
